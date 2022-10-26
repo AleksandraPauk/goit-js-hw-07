@@ -26,8 +26,8 @@ function showModal(event) {
     }
     
     let gallery = new SimpleLightbox('.gallery a', {
-        captionData: "alt",
-        captionDelay: 250,
+        captionsData: "alt",
+        captionsDelay: 250,
     })
 
 }
